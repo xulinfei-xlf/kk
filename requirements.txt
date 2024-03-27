@@ -1,0 +1,9 @@
+dgl==1.0.1
+matplotlib==3.3.4
+networkx==2.5.1
+numpy==1.19.5
+pandas==1.1.5
+scikit_learn==1.4.1.post1
+seaborn==0.13.2
+torch==1.8.1+cpu
+tqdm==4.64.1
